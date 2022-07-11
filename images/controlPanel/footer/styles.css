@@ -1,0 +1,48 @@
+BODY {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: "verdana"; BACKGROUND-COLOR: #c8e3fa
+}
+TD {
+	FONT-WEIGHT: lighter; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: "verdana"
+}
+.mmenu {
+	FONT-WEIGHT: bolder; FONT-SIZE: 11px; COLOR: #000000; TEXT-INDENT: 4px; MARGIN-RIGHT: 10px; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.smenu {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; TEXT-INDENT: 10px; MARGIN-RIGHT: 10px; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.xp {
+	FONT-WEIGHT: bolder; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.dx {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; VERTICAL-ALIGN: 10px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.ssmenu {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.ssmenu:link {
+	FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.ssmenu:visited {
+	FONT-SIZE: 11px; COLOR: #0c71c8; TEXT-DECORATION: none
+}
+A.ssmenu:hover {
+	FONT-SIZE: 11px; COLOR: #ff8000; TEXT-DECORATION: none
+}
+A.smenu:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.smenu:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.smenu:hover {
+	COLOR: #fc5901; TEXT-DECORATION: none
+}
+A.mmenu:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.mmenu:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.mmenu:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}

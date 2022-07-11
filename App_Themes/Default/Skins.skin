@@ -1,0 +1,93 @@
+    
+<%-- Header --%> 
+<asp:Image runat="server" SkinID="imgheader" alt="Header" ImageUrl="Images/vuheader.gif" />
+<%-- VU Logo --%> 
+<asp:Image runat="server" SkinID="imgvulogo" alt="VU logo" imageUrl="Images/vu.jpg" />
+<%-- Loading Image --%> 
+<asp:Image runat="server" SkinID="imgLoading" CssClass="updateprogress"  alt="Processing" imageUrl="Images/loading.gif" />
+
+
+<%-- User Icon --%>    
+<asp:Image runat="server" SkinID="imguser" Width="60" Height="40"  ImageUrl="Images/user.gif" />
+<%-- Magnifier Icon --%>    
+<asp:Image runat="server" SkinID="imgdoor" ImageUrl="Images/door.jpg" />
+
+
+<%-- Procedure Tree --%>
+
+<asp:TreeView SkinID="ProcedureTreeView" ExpandDepth="1"   runat="server"  showlines="true"  >
+      <ParentNodeStyle CssClass="parentnode" />
+      <SelectedNodeStyle CssClass="selectednode" />
+      <HoverNodeStyle CssClass="hovernode" />
+      <RootNodeStyle ImageUrl="Images/menu-images/home.gif" CssClass="rootnode"   />
+      <LeafNodeStyle ImageUrl="Images/menu-images/DOTBLUE.GIF" CssClass="leafnode"  />
+      
+</asp:TreeView>
+
+        
+
+
+
+<%-- GridView--%>
+<asp:GridView SkinID="grdview1"  runat="server"  Width="100%"  CellPadding="4" CellSpacing="1" GridLines="None">
+    <RowStyle CssClass="txt tblrow" />
+    <HeaderStyle CssClass="grid-header" />
+</asp:GridView>
+
+<asp:GridView SkinID="grdview"  runat="server" CellPadding="0" CellSpacing="1" GridLines="None" >
+    <RowStyle CssClass="txt tblrow" />
+    <HeaderStyle CssClass="tblhead heading" />
+    <AlternatingRowStyle BackColor="White" />
+     	
+</asp:GridView>
+
+
+<%-- RequiredFieldValidator--%>
+<asp:RequiredFieldValidator CssClass="error" runat="server">
+</asp:RequiredFieldValidator>
+
+<%-- Compare Validator--%>
+<asp:CompareValidator CssClass="error" runat="server">
+</asp:CompareValidator>
+
+
+<%-- MS Excel Icon --%>    
+<asp:ImageButton runat="server" ToolTip="Export To Excel" SkinID="btnexcel" ImageUrl="Images/msexcel.gif" />
+<%-- Procedure ICON --%>
+<asp:ImageButton runat="server" SkinID="procedurelogo"   ImageUrl="Images/procedure.gif" />
+<%-- User Account ICON --%>
+<asp:ImageButton runat="server" SkinID="usermanager"   ImageUrl="Images/user.gif" />
+<%-- Role ICON --%>
+<asp:ImageButton runat="server" SkinID="rolelogo"   ImageUrl="Images/role.gif" />
+<%-- permission ICON --%>
+<asp:ImageButton runat="server" SkinID="permissionlogo"  ImageUrl="Images/permission.gif" />
+<%-- Back Arrow --%>
+<asp:ImageButton runat="server" SkinID="back"  ImageUrl="Images/back.gif" />
+<%-- Up Arrow --%>
+<asp:ImageButton runat="server" SkinID="up"  ImageUrl="Images/up.gif" />
+<%-- Down Arrow --%>
+<asp:ImageButton runat="server" SkinID="down"  ImageUrl="Images/down.gif" />
+<%-- Print Button --%>
+<asp:ImageButton runat="server" SkinID="print" ToolTip="Print"  ImageUrl="Images/print.jpg" />
+<%-- Print Button --%>
+<asp:ImageButton runat="server" SkinID="printpreview"  ToolTip="PrintPreview" ImageUrl="Images/printpreview.jpg" />
+
+<%-- Default textbox appearance --%>
+<asp:TextBox runat="server" CssClass="field" />
+
+<%-- Default button appearance --%>
+<asp:Button runat="server" CssClass="button"/>
+
+<%--Default DropDown Appearance--%>
+<asp:DropDownList  runat="server"  CssClass="field">
+ </asp:DropDownList>
+ 
+ <%--Default listbox Appearance--%> 
+ <asp:ListBox runat="server" CssClass="field" >
+ </asp:ListBox>
+
+<%-- Default CheckBox--%>
+<asp:CheckBox CssClass="fieldcheck" runat="server"></asp:CheckBox>
+
+<%-- Default RadioButton--%>
+<asp:RadioButton CssClass="fieldradio" runat="server"></asp:RadioButton>

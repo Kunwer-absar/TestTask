@@ -1,0 +1,6 @@
+
+<asp:Image runat="server" SkinID="vulogo"  ImageUrl="~/images/topbar/vu.jpg" /> 
+<asp:Image runat="server" SkinID="govlogo"  ImageUrl="~/images/topbar/govt.jpg" />
+<asp:Image runat="server" SkinID="header"  ImageUrl="topbar.jpg" />
+<asp:Image runat="server" SkinID="studentLogin"  ImageUrl="boy.jpg" />
+<asp:Image runat="server" SkinID="movieAlternative"  ImageUrl="animationImage.jpg" />

@@ -1,0 +1,444 @@
+
+/*#B3EB05*/
+
+
+a:hover, .carousel-style-one.owl-theme .owl-controls .owl-nav div:hover, .button-green:hover, .account-dropdown a:hover, .mainmenu ul#nav > li:hover > a, .mainmenu ul#nav li ul.sub-menu > li:hover > a, .mainmenu ul#nav li ul.sub-menu li ul.inside-menu > li > a:hover, .search-form button[type="submit"], .mean-container .mean-nav ul li a:hover, .mean-container a.meanmenu-reveal, .single-item-text h4 a:hover, .single-latest-text > h3 a:hover, .single-product-text h4 a:hover, .single-event-item:hover h3 a, .subscribe-form > button:hover, .footer-list a:hover, .newsletter-two .subscribe-form > button:hover, .pagination-content.number .pagination li a, .single-teacher-text > h3 a:hover, .author-info > h4 a:hover, span.reply a, .sidebar-widget .single-teacher-text > h3 a:hover, .breadcrumb-bar a:hover, .recent-text > h4 a:hover, .related-tag .tags li a:hover, .link-social > a:hover, .shortcode-area i, .shortcode-area h3, .text-green, .header-top span.text-green, .slick-prev:hover:before, .slick-next:hover:before, .footer-widget-list li a:hover, .footer-container .social-links-three > a:hover  {
+  color: #fd5a4b;
+}
+.header-top:before, .about-area:before, .newsletter-area:before, .mainmenu ul#nav > li > a:after, .mainmenu ul#nav.menu-white > li > a:after, .search-menu, .button-default:hover, .button-green, .about-area .button-default, .single-item .button-default, .button-large.button-default, .single-latest-item .button-default, .single-product-text .button-default, .single-event-item .button-default, .subscribe-form > button, .social-icons > a:hover, .footer-area, .newsletter-two, .pagination-content.number .pagination li a:hover, .pagination-content.number .pagination li.current a, .pagination-content.number .pagination li:first-child a, .pagination-content.number .pagination li:last-child a, .product-details-content .button-default, .product-details-content .social-links a:hover, .duration-title, h4.title:after, .tution-fee, .single-sidebar-widget .social-links a:hover, .single-sidebar-widget .tags li a:hover, .pagination-content .pagination, .news-details-content .social-links a:hover, .contact-form-area .button-default, .skill-bar-item .progress-bar, #scrollUp, .bg-green, .bg-blue:hover, .preview-2 .nivo-directionNav a.nivo-prevNav:hover::before, .preview-2 .nivo-directionNav a.nivo-nextNav:hover::before, .slider-three .preview-2 .nivo-controlNav a, .footer-widget-area.footer-widget-four  {
+  background: #fd5a4b;
+}
+#particles-js, #particles-js.bg-color-1 {
+    background-color: #fd5a4b;
+}
+.search-form, .single-item, .single-latest-text, .single-product-text, .single-event-text, .subscribe-form > button, .subscribe-form > button:hover, .pagination-content.number .pagination li a, .subscribe-form > button, .subscribe-form > button:hover, .pagination-content.number .pagination li a, .pagination-content.number .pagination li a:hover, .pagination-content.number .pagination li.current a, .product-details-content .social-links a:hover, .single-teacher-text, .single-course-details, .course-duration .text, .tutor-image > img, .single-sidebar-widget .social-links a:hover, .single-sidebar-widget .tags li a:hover, .single-sidebar-widget .single-item, .event-details-content .single-event-item, .recent-content-item > a, .quote-section, .news-details-content .social-links a:hover, .shortcode-area i, .shortcode-area h3, .border-green, .slider-three .nivo-controlNav a.active:before, .slider-three .nivo-controlNav a:hover:before {
+  border-color: #fd5a4b;
+}
+
+.header-top:after, .about-area:after { 
+    border-color: rgba(0, 0, 0, 0) #fd5a4b #fd5a4b rgba(0, 0, 0, 0);
+}
+.about-area:after, .newsletter-area:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #fd5a4b #fd5a4b;
+}
+.slider-area::after, .overlay-light-fullwidth::after {
+    background: rgba(134, 188, 66, 0.6) none repeat scroll 0 0;
+}
+.overlay-light-2-fullwidth:after, .semi-transparent  {
+    background: rgba(134, 188, 66, 0.4) none repeat scroll 0 0;
+}
+.header-logo-menu.stick.semi-transparent, .gallery-img, .gallery-img .hover-effect  {
+    background: rgba(134, 188, 66, 0.85) none repeat scroll 0 0;
+}
+.footer-img a:before {
+    background: rgba(134, 188, 66, 0.9) none repeat scroll 0 0;
+}
+.single-teacher-image > a:after {
+    background: rgba(134, 188, 66, 0.8) none repeat scroll 0 0;
+}
+.social-links > a:hover {
+    background: #7a9757 none repeat scroll 0 0;
+    border-color: #7a9757;
+}
+
+a:hover {
+    color: #fd5a4b;
+}
+li > a:hover {
+color:black;
+
+}
+.Button-bg {
+    background-color:#fd5a4b !important;
+    border:none !important;
+}
+.Button-bg:hover {
+    background-color:#2D3E50 !important;
+    cursor:pointer;
+   
+}
+.text-color {
+    color: #fd5a4b !important;
+
+}
+.bg-bar {
+    background-color: #fd5a4b !important;
+}
+.bg {
+    background-color: #fd5a4b;
+}
+.post__button:hover {
+    background-color: #fd5a4b !important;
+}
+.card-body > h4:hover {
+    color: #fd5a4b;
+}
+.cbp-ntaccordion > li > :hover h3,
+.cbp-ntsubaccordion > li > :hover h3 {
+    color: #fd5a4b;
+}
+ul > li > span > a:hover {
+    color: #fd5a4b;
+}
+.facultyul > a:hover{
+    color: #fd5a4b !important;
+    text-decoration:none;
+}
+.hyperlink:hover {
+    color: #fd5a4b !important;
+
+}
+.hyperlink-jobs:hover {
+    color: #fd5a4b !important;
+}
+.news-list-time > h3 > a:hover {
+    color: #fd5a4b;
+}
+.single-study-widget > ul > li:hover {
+    color: #fd5a4b !important;
+}
+.single-study-widget > span:hover i {
+    color: #fd5a4b !important;
+}
+.single-study-widget > span:hover a {
+    color: #fd5a4b !important;
+}
+.single-footer-widget > a :hover i {
+    color: #fd5a4b !important;
+}
+.single-footer-widget > span:hover a {
+    color: #fd5a4b;
+}
+.single-footer-widget > span > a :hover i {
+    color: #fd5a4b;
+}
+.single-footer-widget > span:hover {
+    color: #fd5a4b;
+    cursor:pointer;
+}
+.lost-password > a:hover {
+   color: #fd5a4b;
+}
+.card-Whyvu:hover {
+    cursor: pointer;
+    border-top: 1px solid #fd5a4b;
+    border-right: 1px solid #fd5a4b;
+    border-left: 1px solid #fd5a4b;
+    border-bottom: 1px solid #fd5a4b;
+}
+.color-white1:hover {
+    color: #fd5a4b !important;
+}
+.button-defaultf{
+    background: #fd5a4b none;
+}
+
+.button-default-events{
+    background: #fd5a4b none;
+}
+.button-default-VC {
+    /*background: #2d3e50 none repeat scroll 0 0;*/
+    background: #fd5a4b none repeat scroll 0 0;
+}
+.single-item {
+    border-bottom: 3px solid #fd5a4b;
+    border-top: 1px solid #fd5a4b;
+    border-right: 1px solid #fd5a4b;
+    border-left: 1px solid #fd5a4b;
+    border-bottom: 1px solid #fd5a4b;
+}
+.single-item-text-info span {
+   
+    color: #fd5a4b;
+ 
+}
+.single-latest-text {
+    border-bottom: 2px solid #fd5a4b;
+}
+.single-product-text {
+   
+    border-bottom: 3px solid #fd5a4b;
+   
+}
+.person-frame-2::before {
+    border: 10px solid #fd5a4b;
+}
+.person-frame-2 { 
+    border: 1px solid #fd5a4b;
+}
+#custCarousel .carousel-indicators li.active img {
+    border: 4px solid #fd5a4b;
+}
+.single-event-text {
+   
+    border-bottom: 2px solid #fd5a4b;
+    
+}
+.subscribe-form > button {
+    border: 2px solid #fd5a4b;
+}
+    .subscribe-form > button:hover {
+        border: 2px solid #fd5a4b;
+    }
+.pagination-content.number .pagination li a {
+    border: 1px solid #fd5a4b;
+   
+}
+.single-teacher-text {
+    border-bottom: 3px solid #fd5a4b;
+}
+.single-teacher-text-Adj {
+    border-bottom: 3px solid #fd5a4b;
+}
+.single-course-details {
+    
+    border-bottom: 3px solid #fd5a4b;
+   
+}
+.course-duration .text {
+    border-bottom: 1px solid #fd5a4b;
+    
+}
+.tutor-image > img {
+    border: 2px solid #fd5a4b;
+}
+.single-sidebar-widget .single-item {
+   
+    border-bottom: 2px solid #fd5a4b;
+}
+event-details-content .single-event-item {
+    border-bottom: 2px solid #fd5a4b;
+}
+.recent-content-item > a {
+    border: 1px solid #fd5a4b;
+    
+}
+.event-details-content .single-event-item {
+    border-bottom: 2px solid #fd5a4b;
+}
+.quote-section {
+    
+    border-left: 2px solid #fd5a4b;
+    
+}
+.shortcode-area i {
+    
+    border: 2px solid #fd5a4b;
+    
+}
+.shortcode-area h3 {
+    border: 1px dashed #fd5a4b;
+    
+}
+.border-green {
+    border-top: 3px solid #fd5a4b;
+}
+.welcome-about-text h4 {
+    color: #fd5a4b;
+}
+.welcome-about-text .button-default {
+
+    background-color: #fd5a4b;
+}
+.post__meta a {
+    color: #fd5a4b;
+}
+post__button:hover {
+    border: 1px solid #fd5a4b;
+    color: #fff;
+}
+.testimonial__author-role {
+
+    color: #fd5a4b;
+}
+.progress-bar {
+   
+    background: #fd5a4b;
+    
+}
+.News-img {
+    
+    border: 1px solid #fd5a4b;
+}
+.thumbnail li a img {
+   
+    border: 2px solid #fd5a4b;
+}
+*::-webkit-scrollbar-thumb {
+    background-color: #fd5a4b;
+    
+    border: 3px solid #fd5a4b;
+}
+.facmaxqualification-Adj::-webkit-scrollbar-thumb {
+    background-color: #fd5a4b;
+    
+    border: 2px solid #fd5a4b;
+}
+.cbp-ntopen > span {
+    color: #fd5a4b;
+}
+.active-heading-fac {
+    color: #fd5a4b;
+}
+.heading-Fee :hover {
+    color: #fd5a4b;
+}
+.HeadingColor {
+    color: #fd5a4b !important;
+}
+.day {
+   
+    color: #fd5a4b;
+    
+}
+.time > i {
+    color: #fd5a4b;
+}
+.search-form {
+    
+    border-top: 1px solid #fd5a4b;
+   
+}
+.time > span {
+    color: #fd5a4b;
+}
+nav ul li:hover {
+   
+    background-color: #fd5a4b;
+}
+.activemainmenu {
+    
+    background-color: #fd5a4b !important;
+}
+.activesubmenu:hover a {
+    
+ color: #fd5a4b !important;
+}
+.activesubsubmenu:hover a {
+    
+ color: #fd5a4b !important;
+}
+nav ul li >:hover {
+    /*color: #B9E684;*/
+    /*color: #fd5a4b !important;*/
+
+}
+.active > a hover::after {
+        color: #fd5a4b !important;
+       
+    }
+ .accordion-item:hover {        
+       
+        color:#fd5a4b;
+        
+    }
+
+ .accordion-item.active{ color:#fd5a4b }
+.font-color {
+color:#fd5a4b !important;
+}
+i:hover {
+color:#fd5a4b;
+}
+
+.sizeimgfaculty > img {
+     border-bottom-color:#fd5a4b !important;
+    border-right-color:#fd5a4b !important;
+    border-left-color:#fd5a4b !important;
+    border-top-color:#fd5a4b !important;
+    
+
+    
+}
+.news-list-time > h3 > a > span {
+   
+    color:black !important;
+}
+
+
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    background-color: #fd5a4b;
+}
+
+.gsc-search-button input.gsc-search-button-v2,
+.gsc-search-button-v2 {
+    background-color:#fd5a4b !important;
+}
+
+.gsc-search-button input.gsc-search-button-v2, .gsc-search-button-v2 {
+    background-color: #fd5a4b !important;
+}
+.gsc-search-button-v2 {
+    
+    background-color: #fd5a4b !important;
+   
+}
+
+.dxtcActiveTab td.dxtc, .dxtcActiveTabWithTabPositionBottom td.dxtc, .dxtcActiveTabWithTabPositionLeft td.dxtc, .dxtcActiveTabWithTabPositionRight td.dxtc {
+    white-space: nowrap;
+  color: #fd5a4b !important;
+}
+#btnBack {
+background-color:#fd5a4b !important;
+}
+.dxbButton {
+color: #fd5a4b !important
+}
+.VUtreeView_3 {
+color: #fd5a4b !important
+}
+.whuvutitle:hover h4 {
+    color: #fd5a4b !important
+}
+.funfactor:hover h4 {
+    color: #fd5a4b !important
+}
+.funfactor:hover h2 {
+    color: #fd5a4b !important;
+}
+.activesubmenu img {
+            content: url('menuicons/subMenuIcon.png');
+        }
+
+        .activesubmenu:hover i {
+            content: url('menuicons/subMenuIcon.png');
+        }
+
+        .activesubmenu:hover img {
+            content: url('menuicons/subMenuIcon.png');
+        }
+
+/*==========================================PDC==================================================================================*/
+
+/*#Menu .header-top:after{
+    background-color: #fd5a4b !important;
+}
+#Menu .header-top:before {
+    background-color: #fd5a4b !important;
+}*/
+h6 > a:hover {
+    color: #fd5a4b !important
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus {
+    color: white !important;
+    background-color: #fd5a4b !important;
+}
+.text-white:hover > span {
+    color: #fd5a4b !important;
+}
+.current > a:hover {
+    color: #fd5a4b !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #fd5a4b !important;
+    border-color: #fd5a4b !important;
+}
+b > a:hover {
+    color: #fd5a4b !important;
+}
+.list-inline-item :hover span {
+    color: #fd5a4b !important;
+    cursor: pointer
+}

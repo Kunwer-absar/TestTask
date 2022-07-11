@@ -1,0 +1,171 @@
+﻿/*------------------------------------------footer css-----------------------------------------------------*/
+
+
+.footer
+{
+	float:left;
+	width:100%;
+	background:#333333;
+	padding-top:20px;
+}
+
+.footerbg
+{
+    background:#333333;
+}
+
+.imp-vu-links
+{
+	width:33%;    
+	float:left;
+}
+.contact-data p
+{
+    margin-top:0px;
+    margin-bottom:5px;
+	font-size:12pt;
+	font-family:open_sansregular, Arial;
+	color:#FFF;
+	margin-left:5px;
+}
+.imp-vu-links-data p
+{
+	font-size:8pt;
+	font-family:open_sansregular;
+	color:#FFF;
+	margin-left:5px;
+}
+.imp_vu_img 
+{
+    float: left; 
+    margin-right:3px;
+    height:30px;
+    vertical-align:top;
+}
+.imp_vu_link_mailaddress, .imp_vu_link_mailaddress a:visited, .imp_vu_link_mailaddress a:visited  {
+   outline: none;
+   font-size:8pt;
+   font-family:open_sansregular;
+   color:#FFF;
+   margin-left:0px;
+    
+}
+.contact-us
+{
+	width:33%;
+	float:left;
+	color:White;
+     
+}
+.contact-us-container {
+   
+    width:75%;
+    margin:auto;
+    text-align:center; 
+}
+.footer_links
+{
+ 
+    font-size:11px;
+	font-family:open_sansregular;
+    float:left;
+    text-align:center;
+    width:24%;
+    
+}
+.copy-right-div 
+{
+    float:left;
+    width:100%; 
+    font-size:9px;
+   font-family:open_sansregular;
+   color:#bebebe;
+   text-align:center;
+}
+
+
+
+.help-us{
+	width:33%;
+	float:right;
+	margin-right:0px;	
+    
+}
+
+.footer-info-data 
+{
+    float:left;
+    padding-left:5px;
+}
+.footer-info-data p
+{
+	font-size:8pt;
+	font-family:open_sansregular;
+	color:#FFF;
+    width:auto;
+    vertical-align:baseline;
+    line-height:12px;
+    margin-top:3px;
+    margin-bottom:10px;
+    
+}
+.footer-info-data p img
+{
+    height:15px;
+    vertical-align:middle;
+    margin-top:-3px;
+}
+    
+
+.social-media  
+{ 
+    float:right;
+    padding-right:5px;
+
+}
+
+.social-media a 
+{ 
+    text-decoration:none;
+
+}
+
+@media only screen and (max-width: 700px) {
+    .vuHomeFooter {        
+        width: 50%;
+        float: left;
+    }
+
+    .contactHomeFooter {
+        float: left;        
+        width: 50%;
+    }
+
+    .helpHomeFooter {
+        width: 100%;        
+        float: left;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .vuHomeFooter {        
+        width: 100%;
+        float: left;
+    }
+
+    .contactHomeFooter {
+        float: left;        
+        width: 100%;
+        margin-top: 15px;        
+        margin-left:-15%;
+    }
+
+    .helpHomeFooter {
+        width: 100%;        
+        float: left;
+        margin-top: 20px;
+    }
+}
+
+

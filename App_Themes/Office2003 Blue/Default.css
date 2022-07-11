@@ -1,0 +1,833 @@
+body
+{
+    /*background-color: #056396;*/
+    background-color: #ffffff;
+    margin: 0 0 0 0;
+}
+
+.pageHeading {font-family: "MS Sans Serif"; font-size: 16px; color: #214289; font-weight: bold; background-color: #FFFFFF; }
+.tblInfo
+{
+    background-color: #FFFFFF;
+    border: solid 1px #D4D4D4;    
+}
+.tdInfoLeft
+{background-color: #E6EDF7; font-weight: bold;}
+
+.tdInfoRight
+{background-color: #F4F4F4;}
+.tbl
+{
+	background-color: #d7ebff;
+}
+.tblheading
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 10pt;
+	font-weight: bold;
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFFFF, endColorstr=#C4E0F7); 
+}
+.registrationsubheading
+{
+    font-family:Trebuchet MS;
+    color: #071268;
+    font-size: 10pt;
+    font-weight: normal;
+	font-weight: bold;
+}
+.registrationinstruction
+{
+	font-family: Arial;
+	color: #071268;
+	font-size: 10pt;
+	font-weight: normal;
+}
+.tblhead
+{
+	background-color: #94bee0;
+	height: 20px;
+}
+.tblrow
+{
+	background-color: #f0f8ff;
+	height: 20px;
+}
+.msgtable
+{
+	border-width:1px;
+	border-spacing:0px;
+	border-color:Black;
+	border-style:groove;
+	/*FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr=#cccccc, endColorstr=#999999);*/
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFFFF, endColorstr=#C4E0F7); 
+}
+.msgtd
+{
+	border-width:0px;
+	padding:0px;	
+}
+.msgtxt
+{
+font-family: Arial;
+    color:#333333;
+    font-size: 11pt;
+	font-weight:bold;
+}
+.msgerr
+{
+font-family: Arial;
+    color:red;
+    font-size: 11pt;
+	font-weight:bold;
+}
+.button
+{
+	color: #000000;
+	font-size: 9pt;
+	font-family: Arial;
+	border: #000000 1px solid;
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFFFF, endColorstr=#8ac5ff);
+}
+.field
+{
+	border-right: #aaaaaa 1px solid;
+	border-top: #aaaaaa 1px solid;
+	border-left: #aaaaaa 1px solid;
+	border-bottom: #aaaaaa 1px solid;
+	font-size: 9pt;
+	font-family: Arial;
+	
+	color:Navy;
+	
+}
+.fieldcheck
+{
+	font-size: 9pt;
+	font-family: Arial;
+	color:Navy;
+	height:15px;
+}
+
+.fieldradio
+{
+	font-size: 9pt;
+	font-family: Arial;
+	color:Navy;
+	height:15px;
+}
+
+.date
+{
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 8pt;
+}
+
+.link
+{
+    color: #3366ff;
+    font-weight: bold;
+    font-size: 8pt;
+    font-family: Arial;
+    text-decoration: underline;  
+    CURSOR: hand;	
+}
+
+.linkAmount
+{
+    CURSOR: hand;
+    font-weight: bold;
+    font-size: 8pt;
+    font-family: Arial;	
+    color: #3366ff; 		
+}
+.pageheading
+{
+    color:#ffffff;
+    font-family: Trebuchet MS; 
+    font-size:13pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+
+}    
+.heading
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 10pt;
+	font-weight: bold;
+}     
+.subheading
+{
+	font-family: arial;
+	color: #cc0033;
+	font-weight: bold;
+	font-size: 10pt;
+	font-style: italic;
+}
+.subheadingunderlined
+{
+	font-family: arial;
+	color: #cc0033;
+	font-weight: bold;
+	font-size: 10pt;
+	font-style: italic;
+	text-decoration: underline;
+}
+.label
+{
+    font-family:Trebuchet MS;
+    color: #000000;
+    font-size: 9pt;
+    font-weight: normal;
+ 
+}
+.txt
+{
+    font-family: Arial;
+    color: #071268;
+    font-size: 9pt;
+}
+
+.alert
+{
+    font-size: 8pt;
+    color: #ff0066;
+    font-family: Arial;
+    font-weight: bold;
+}
+.compulsory
+{
+    font-size: 10pt;
+    color: #ff0066;
+    font-family: Arial;
+    font-weight: bold;
+}
+.line
+{
+	border: 1  ;	
+    WIDTH: 100%;
+    COLOR: #0000ff;
+    TEXT-ALIGN: center;
+}
+/*Tree View*/
+.parentnode
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #5555DD;
+	font-weight: bold;
+}
+.leafnode
+{
+	font-family: Arial;
+	font-size: 9pt;
+	color: #666666;
+	text-decoration: underline;
+}
+
+.selectednode
+{
+color: Red;
+}
+.rootnode
+{
+font-family: Arial;
+	font-size: 9pt;
+	color: #000000;
+	font-weight: bold;	
+}
+.hovernode
+{
+color: Blue;
+}
+
+/*end tree view*/
+
+.tableborder
+{
+    border-top: #A5A8AC 1px solid;
+    border-bottom: #A5A8AC 1px solid;
+    border-left: #A5A8AC 1px solid;
+    border-right: #A5A8AC 1px solid;
+}
+.note
+{
+	font-weight: normal;
+	font-size: 8pt;
+	color: blue;
+	font-style: normal;
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	
+	}
+.note_
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial, Helvetica, sans-serif
+}
+.error
+{
+	font-weight: normal;
+	font-size: 8pt;
+	color: #ff0066;
+	font-style: normal;
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+}
+
+.verror
+{
+	color: red;
+	font-size: 8pt;
+	font-family: Arial;
+	font-weight:bolder ;
+	}
+.verrorStar
+{
+	color: red;
+	font-size: 12pt;
+	font-family: Arial;
+	font-weight:bolder ;
+}
+.info
+{
+	font-size: 7pt;
+	color: blue;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+
+.sr
+{
+    background-color: #990000;
+    font-weight: bold;
+    color: #ffffff;
+    font-style: normal;
+    font-family: Verdana;
+    font-size: 8pt;
+}
+/****************accordion***************/
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	background-image: url(images/bg.jpg);
+	border: 1px solid #3366CC;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	height: 23px;
+	text-align: left;
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 3px;
+	margin-left: 0px;
+}
+.contents {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.link_accordian
+{
+	color:Black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	text-decoration:underline;
+	cursor:hand;
+}
+.blue_bar {
+	background-color: #316AC5;
+	border-top-color: #003399;
+	border-right-color: #003399;
+	border-bottom-color: #003399;
+	border-left-color: #003399;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-style: normal;
+}
+
+.accordionHeader
+{
+    border: 1px solid #2F4F4F;
+    color: black;
+    background-color: #d7ebff;
+	font-family: Arial, Sans-Serif;
+	font-size: 12px;
+	font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.accordionHeaderPlain
+{
+   cursor: hand;
+   background-image: url(images/Plus_Grid.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+#master_content .accordionHeader a
+{
+	color: #FFFFFF;
+	background: none;
+	text-decoration: none;
+}
+
+#master_content .accordionHeader a:hover
+{
+	background: none;
+	text-decoration: underline;
+}
+
+.accordionHeaderSelected
+{
+    border: 1px solid #2F4F4F;
+    color: white;
+    background-color: #5078B3;
+	font-family: Arial, Sans-Serif;
+	font-size: 12px;
+	font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.accordionHeaderSelectedPlain
+{
+    cursor: hand;
+    background-image:url('Images/Minus_Grid.gif');
+	background-repeat:no-repeat;
+	background-position:left;
+	background-color: White;
+}
+
+#master_content .accordionHeaderSelected a
+{
+	color: #FFFFFF;
+	background: none;
+	text-decoration: none;
+}
+
+#master_content .accordionHeaderSelected a:hover
+{
+	background: none;
+	text-decoration: underline;
+}
+
+.accordionContent
+{
+    background-color: #D3DEEF;
+    border: 1px dashed #2F4F4F;
+    border-top: none;
+    padding: 5px;
+    padding-top: 10px;
+}
+.accordionContentPlain
+{
+    background-color: White;
+    padding: 1px;
+    padding-top: 1px;
+}
+/****************accordion***************/
+.notification
+{
+	font-size: 11pt;
+	font-style: italic;
+	font-family: 'Times New Roman';
+	text-align:left;
+}
+.towhom
+{
+	font-size: 16pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-decoration: underline;
+	text-align:center;
+}
+.topseb
+{
+	font-size: 11pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-decoration: underline;
+	text-align:center;
+}
+.towhomSimple
+{
+	font-size: 16pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-decoration:  none;
+	text-align:center;
+}
+.towhomItalic
+{
+	font-size: 16pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-decoration:  none;
+	font-style:italic;
+	text-align:center;
+}
+.certificatetext
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	text-align: justify;
+	line-height: 20pt;
+}
+.certificatetextitalic
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	text-align: justify;
+	font-style:italic;
+	line-height: 20pt;
+}
+.verified
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	text-align:left;
+}
+
+.approved
+{
+	font-size: 12pt;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	text-align:right;
+}
+.certificatefooter
+{
+	font-size: 11pt;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	text-align:left;
+}
+.certificatefooterwithtab
+{
+	font-size: 11pt;
+	margin-left: 30px;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	text-align:left;
+}
+.radlist
+{
+	font-size: 8pt;
+	font-family: Arial;
+}
+
+
+.updateprogress
+{
+	left:50%;
+	top:50%;
+	position:absolute;
+
+	
+}
+
+.modaldialogbox
+{
+	border:0px;
+	position:absolute;
+	z-index:9;
+	left:0px;
+	top:0px;
+	width:expression(this.offsetParent.scrollWidth);
+	height:expression(this.offsetParent.scrollHeight);
+	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50, FinishOpacity=0, Style=0, StartX=0, FinishX=100, StartY=0, FinishY=100);
+}
+
+.cmstext {
+	font-size: medium;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	font-family: Verdana, "Arial Narrow", Courier, "Arial Black";
+}
+
+/* CSS Added By Umair Hafeez on May 15, 2008 */
+
+/* BEGIN */
+
+.overlay 
+{
+    visibility: hidden; 
+    position: absolute; 
+    top: 0px; 
+    left: 0px;
+    background: Gray; 
+    height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+    width: expression(document.body.scrollWidth > document.body.offsetWidth ? document.body.scrollWidth : document.body.offsetWidth + 'px');
+    opacity: .5; 
+    vertical-align: middle; 
+    text-align: center;
+    filter: alpha(opacity=50); 
+    -moz-opacity: .5
+} 
+
+.content_overlay 
+{ 
+    visibility: hidden; 
+    position: absolute; 
+    width: 50%; 
+    height: 50%; 
+    background-color: #d7ebff;
+    vertical-align: middle; 
+    text-align: center;
+    top: 25%;
+    left: 25%;
+} 
+
+.content_overlay td 
+{
+    width: 100%; 
+    height: 100%;
+    vertical-align: middle; 
+    text-align: center; 
+} 
+
+.content 
+{ 
+    width: 100%; 
+    height: 100%;
+    text-align: center; 
+    vertical-align: middle;
+    /*background: #d7ebff; */
+    FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFFFF, endColorstr=#C4E0F7);
+    color: Black;
+}
+
+/* END */
+
+.gvHeader
+{   
+    font:12px verdana;
+    Background-Color:#d7ebff;
+    Font-weight:bold;
+    Color:Black ;
+  
+}
+ .gvFooter
+{   
+    font:12px verdana;
+    Background-Color:#8ACEFA;
+    color:Black ; 
+    font-weight:bold ;
+    
+} 
+.gvPager
+{
+  font:12px verdana;
+  font-weight:bold ;
+  color:black;
+  text-align:center;
+  background-Color:#8ACEFA;
+
+} 
+.gvRowStyle
+{
+    Background-Color:#EFF3FB;
+    text-align:left;
+    Font-weight:normal
+} 
+.gvAlternatingRowStyle
+{
+    background-color:White;
+    text-align:left;
+    Font-weight:normal;
+  
+}
+.gvSelectedRowStyle
+{
+    Background-Color:#D1DDF1;
+    Color:#333333;
+    Font-weight:bold;
+   
+}
+.gvEditRowStyle
+{
+    Background-Color:Green;
+}
+.gvProperties
+{
+    font:11px arial;
+    color:Black;
+    vertical-align:top ;
+}
+.gvEmptyDataRowStyle
+{
+    vertical-align:bottom;
+}
+.gvEmptyDataRowPosition
+{
+    vertical-align:bottom;
+     text-align:right; 
+}
+.pubdate {
+	FONT-WEIGHT: normal; FONT-SIZE: 7pt; COLOR: #000000; FONT-FAMILY: Verdana,Arial, Helvetica, sans-serif
+}
+
+
+
+.message
+{
+
+	font-size: 10pt;
+	font-family: Arial;
+	color:Navy;
+	
+}
+
+
+
+.progressBackgroundFilter
+{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	width: expression(this.offsetParent.scrollWidth);
+	height: expression(this.offsetParent.scrollHeight);
+	opacity: 0.5;
+	z-index: 1000;
+	filter: alpha(opacity=50);
+	background-color: Gray;
+} 
+
+.help
+{
+	font-size: 8pt;
+	font-family: Arial;
+	color: appworkspace;
+}
+
+.Freezing 
+{ 
+   position:relative ; 
+   top:expression(this.offsetParent.scrollTop); 
+   z-index: 10; 
+}
+
+.grid-pager{    color: White;       text-align: center;}
+
+.tblrow_employee
+{
+	background-color: white;
+	height: 20px;
+}
+
+
+.seperationline
+{
+	height:1px;
+	color:#94bee0;
+}
+
+
+
+.tblrow_employeechild0
+{
+	background-color: #fbfbfb;
+	height: 20px;
+}
+.tblrow_employeechild1
+{
+	background-color: whitesmoke;
+	height: 20px;
+}
+
+
+/* table style */
+table.ivu
+{
+	font-family:lucida grande,arial,helvetica,sans-serif;
+	font-size:11px;
+	width:700px;
+}
+
+/* common cell styles */
+.ivu th, .ivu td
+{
+	cursor:default;
+	height:20px;
+}
+
+/* header cell style */
+.ivu th
+{
+	border-right-style:solid;
+	border-right-width:1px;
+	border-bottom-style:solid;
+	border-bottom-width:2px;
+    font-weight:bold;
+    text-align:center;  
+    padding:2px 10px;  
+}  
+
+/* cell styles */
+.ivu td
+{
+    color:#000;
+	padding:2px 8px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-bottom-style:solid;
+	border-bottom-width:1px;	
+}
+
+
+
+
+/* table style */
+table.ivu-classic
+{
+	font-family:arial,sans-serif;
+	border-top: solid 1px #7aa5d6;
+	
+}
+
+/* header cell style */
+.ivu-classic th
+{
+	color: #000000;
+	border-right-color: #7aa5d6;
+	border-bottom-color: #7aa5d6;
+	background: #94bee0;
+}  
+
+/* cell styles */
+.ivu-classic td
+{
+    border-bottom-color:#e5ecf9;	
+    border-right-color:#e5ecf9;	
+}
+
+/* mouseover row style */
+.ivu-classic .row-over 
+{ 
+	background-color:#e5ecf9;
+}
+
+
+
+

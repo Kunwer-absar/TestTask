@@ -1,0 +1,69 @@
+﻿  .inactive 
+        {
+            font-family:Arial;
+            font-size:12px;
+            line-height:35px;
+            cursor:pointer; 
+            padding-left:4px; 
+            vertical-align:top;
+             /*color: black;*/  
+             font-weight:normal !important;   
+                
+          
+        }
+
+        .inactive img 
+        {
+            visibility: hidden !important;
+        
+            
+        }
+
+        .active 
+        {
+            font-family:Arial;
+            font-size:12px;             
+            text-decoration: none;
+            /*color: black;*/
+            font-weight:bold;  
+            cursor:pointer;
+            line-height:30px;
+            vertical-align:top;      
+            
+        }
+
+        .active img 
+        {
+            visibility: visible;          
+            text-decoration: underline;
+           
+        }
+
+         ol li 
+         {
+            /*list-style-type:square;*/
+            list-style-image: url('../Images/dragablelist_bullet.png');
+            
+            
+        }             
+
+        .child 
+        {
+         /*color:black;*/
+         font-weight:normal;
+         line-height:20px !important;        
+        
+                     
+        }
+        .child img
+        {
+            visibility:hidden ;
+                     
+        }
+          /*ol li div span
+         {
+            /*border:1px solid #f00;
+            line-height:5px !important;
+        }*/  
+
+        

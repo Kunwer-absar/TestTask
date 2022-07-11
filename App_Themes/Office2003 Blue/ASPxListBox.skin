@@ -1,0 +1,5 @@
+﻿<%@ Register TagPrefix="dxe" Namespace="DevExpress.Web.ASPxEditors" Assembly="DevExpress.Web.ASPxEditors.v7.3" %>
+<dxe:ASPxListBox runat="server" Width="156px"
+	CssFilePath="~/App_Themes/Office2003 Blue/{0}/styles.css" CssPostfix="Office2003_Blue"
+	ImageFolder="~/App_Themes/Office2003 Blue/{0}/" >
+</dxe:ASPxListBox>

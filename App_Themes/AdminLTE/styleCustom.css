@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+
+body {
+  margin: 0px;
+  
+}
+
+nav {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: left;
+  font-family: Raleway;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+#nav-1 {
+  /*background: #3fa46a;*/
+  /*background: #5175C0;*/
+  /*background: #0454c1;*/
+  /*background: #0482c1;*/
+
+  background:#0472c1;
+  
+}
+/*#nav-2 {
+  background: #5175C0;
+}
+#nav-3 {
+  background: #EEA200;
+}*/
+
+.link-1 {
+  transition: 0.3s ease;
+  /*background: #3fa46a;*/
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  border-top: 1px solid #0472c1;
+  border-bottom: 1px solid #0472c1;
+  padding: 14px 0;
+  margin: 0 15px;
+}
+.link-1:hover {
+  /*border-top: 2px solid #ffffff;*/
+  border-bottom: 2px solid #ffffff;
+  padding: 3px 0; 
+  
+}
+
+/*.link-2 {
+  transition: 0.6s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  border-right: 2px dotted transparent;
+  padding: 30px 8px 0 10px;
+  margin: 0 10px;
+}
+.link-2:hover {
+  border-right: 2px dotted #ffffff;
+  padding-bottom: 24px;
+}
+.link-3 {
+  transition: 0.4s;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+.link-3:hover {
+  background-color: #ffffff;
+  color: #EEA200;
+  padding: 24px 10px;
+}*/
+
+
+/*img.icon{
+	background:rgba(255, 255, 255, 0.4);
+	padding:14px;
+	border-radius:100%;
+	margin:30px auto;
+	display:block;
+	transition:all 0.8s;
+	-webkit-transition:all 0.8s;
+	-moz-transition:all 0.8s;
+	box-shadow: 0 0 0 30px rgba(255,255,255,0.1);
+	-webkit-box-shadow: 0 0 0 10px rgba(255,255,255,0.1);
+}
+.nav li:hover img.icon{
+	background:rgba(255, 255, 255, 0.9);
+	box-shadow: 0 0 0 10px rgba(255,255,255,0.8);
+	-webkit-box-shadow: 0 0 0 0 rgba(255,255,255,0.8);
+}*/
+
